@@ -1,0 +1,16 @@
+======================================================================
+TOP INSIGHTS FROM EXPLORATORY DATA ANALYSIS
+======================================================================
+
+1. Total Sales has the highest average value of $8.94 per transaction.
+2. 'Food' is the most common item category with 3,362 transactions (33.6% of total).
+3. Price distribution shows mean of $2.95 and median of $3.00, indicating negative skew.
+4. Average quantity purchased is 3.0 units, with most transactions involving 3 units.
+5. 'Other' generates the highest average revenue at $12.07 per transaction.
+6. Strong positive correlation (0.707) exists between Quantity and Total Sales - higher quantity leads to higher revenue.
+7. Moderate positive correlation (0.646) exists between Price and Total Sales.
+8. 240 outliers identified in Total Sales (2.4% of data), representing potential premium or bulk transactions.
+9. 'Total Sales' shows the highest variability (Std Dev: 5.83), indicating diverse transaction patterns.
+10. Item distribution: Food (3362), Drink (3356), Other (2117), Coffee (1165).
+11. Transactions are nearly split between High Value (5187) and Low Value (4813) categories.
+12. Price shows positive correlation (0.646) with Total Sales.
